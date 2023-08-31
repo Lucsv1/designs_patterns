@@ -23,13 +23,3 @@
 - **Onde:** Implementado nas classes `TaskComponent`, `SingleTask` e `CompositeTask`.
 - **Descrição:** O Composite Pattern é utilizado para permitir que as tarefas sejam compostas em uma estrutura de árvore, onde uma tarefa pode conter outras tarefas.
 
-## Executando o Projeto
-
-1. Certifique-se de ter o Java JDK instalado em sua máquina.
-2. Clone este repositório em sua máquina local.
-3. Compile as classes executando `javac librarymanagement/*.java` no diretório raiz do projeto.
-4. Execute a classe `MainApp` executando `java librarymanagement.MainApp`.
-
-## Exemplos de Uso
-
-O método `main` na classe `MainApp` fornece exemplos de como as classes e design patterns podem ser usados para gerenciar tarefas em uma biblioteca.
